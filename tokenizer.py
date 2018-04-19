@@ -43,5 +43,3 @@ else:
 print("*********** TRIGRAMMI POS ***********")
 trigrams_pos = list(trigrams(sent_pos['pos_tags']))
 print(trigrams_pos)
-
-

@@ -50,7 +50,6 @@ def getData():
             '''
             i=i+1
 
-
     return datas, target
 
 getData()
